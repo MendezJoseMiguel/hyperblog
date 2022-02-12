@@ -1,3 +1,5 @@
 Hola Mi Nombre es Jose Mendez
 
-Tengo 33 años, naci en Venezuela y vivo en Chile.
+Tengo 33 años, naci en Venezuela y vivo en Chile
+
+Sigo estudiando para trabajar como programdor.
